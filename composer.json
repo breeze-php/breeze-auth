@@ -1,0 +1,13 @@
+{
+    "name": "breeze-php/breeze-auth",
+    "description": "A simple authentication layer",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Suh Du",
+            "email": "suhdu@protonmail.com"
+        }
+    ],
+    "require": {}
+}
