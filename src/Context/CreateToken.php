@@ -3,7 +3,7 @@
 namespace Breeze\Auth\Context;
 
 use Firebase\JWT\JWT;
-use Account\Document\User;
+use Breeze\Identity\Document\User;
 
 /**
  * Class CreateToken

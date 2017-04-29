@@ -1,6 +1,6 @@
 <?php
 
-namespace Authentication;
+namespace Breeze\Auth;
 
 use Breeze\Core\Module\StandardAutoloaderTrait;
 
