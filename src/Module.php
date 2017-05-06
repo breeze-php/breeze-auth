@@ -2,16 +2,12 @@
 
 namespace Breeze\Auth;
 
+use Breeze\Core\Module\DefaultConfig;
+
 /**
  * Class Module
  */
 class Module
 {
-    /**
-     * @return mixed
-     */
-    public function getConfig()
-    {
-        return include __DIR__ . '../config/module.config.php';
-    }
+    use DefaultConfig;
 }
